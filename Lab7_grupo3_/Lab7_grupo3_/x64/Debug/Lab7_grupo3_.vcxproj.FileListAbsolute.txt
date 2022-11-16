@@ -1,0 +1,3 @@
+C:\Users\kathe\source\repos\Lab7_grupo3_\Lab7_grupo3_\x64\Debug\Lab7_grupo3_.vcxproj.AssemblyReference.cache
+C:\Users\kathe\source\repos\Lab7_grupo3_\Lab7_grupo3_\x64\Debug\Lab7grupo3.Ejercicio1.resources
+C:\Users\kathe\source\repos\Lab7_grupo3_\Lab7_grupo3_\x64\Debug\Lab7_grupo3_.vcxproj.GenerateResource.cache
