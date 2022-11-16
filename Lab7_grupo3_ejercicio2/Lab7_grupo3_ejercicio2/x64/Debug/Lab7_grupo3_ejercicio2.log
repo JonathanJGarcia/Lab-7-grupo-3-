@@ -1,0 +1,49 @@
+﻿  MyForm.cpp
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\Poligonos.h(63,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\Poligonos.h(63,36): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\Poligonos.h(91,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\Poligonos.h(91,40): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\Poligonos.h(95,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\Poligonos.h(95,40): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\Poligonos.h(99,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\Poligonos.h(99,35): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\MyForm.h(723,24): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\MyForm.h(739,24): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\MyForm.h(758,24): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\MyForm.h(703,48): warning C4101: 'lad8': unreferenced local variable
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\MyForm.h(703,36): warning C4101: 'lad6': unreferenced local variable
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\MyForm.h(703,30): warning C4101: 'lad5': unreferenced local variable
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\MyForm.h(703,42): warning C4101: 'lad7': unreferenced local variable
+  Poligonos.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab7_grupo3_ejercicio2.vcxproj -> C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\x64\Debug\Lab7_grupo3_ejercicio2.exe

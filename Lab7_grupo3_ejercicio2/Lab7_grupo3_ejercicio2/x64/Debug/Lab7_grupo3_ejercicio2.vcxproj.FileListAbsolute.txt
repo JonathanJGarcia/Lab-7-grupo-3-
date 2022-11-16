@@ -1,0 +1,3 @@
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\x64\Debug\Lab7_grupo3_ejercicio2.vcxproj.AssemblyReference.cache
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\x64\Debug\Lab7grupo3ejercicio2.MyForm.resources
+C:\Users\kathe\source\repos\Lab7_grupo3_ejercicio2\Lab7_grupo3_ejercicio2\x64\Debug\Lab7_grupo3_ejercicio2.vcxproj.GenerateResource.cache
